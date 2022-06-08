@@ -1,0 +1,15 @@
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 001\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 001\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 001\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 001\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 001\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 001\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 001\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 001\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 001\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 001\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 001\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 001\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 001\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 001\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 001\Arrays\obj\Debug\net6.0\ref\Arrays.dll
