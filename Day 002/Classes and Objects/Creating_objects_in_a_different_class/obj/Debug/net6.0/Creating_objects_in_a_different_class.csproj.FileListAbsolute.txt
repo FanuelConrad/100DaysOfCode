@@ -1,0 +1,15 @@
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_objects_in_a_different_class\bin\Debug\net6.0\Creating_objects_in_a_different_class.exe
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_objects_in_a_different_class\bin\Debug\net6.0\Creating_objects_in_a_different_class.deps.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_objects_in_a_different_class\bin\Debug\net6.0\Creating_objects_in_a_different_class.runtimeconfig.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_objects_in_a_different_class\bin\Debug\net6.0\Creating_objects_in_a_different_class.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_objects_in_a_different_class\bin\Debug\net6.0\Creating_objects_in_a_different_class.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_objects_in_a_different_class\obj\Debug\net6.0\Creating_objects_in_a_different_class.csproj.AssemblyReference.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_objects_in_a_different_class\obj\Debug\net6.0\Creating_objects_in_a_different_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_objects_in_a_different_class\obj\Debug\net6.0\Creating_objects_in_a_different_class.AssemblyInfoInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_objects_in_a_different_class\obj\Debug\net6.0\Creating_objects_in_a_different_class.AssemblyInfo.cs
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_objects_in_a_different_class\obj\Debug\net6.0\Creating_objects_in_a_different_class.csproj.CoreCompileInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_objects_in_a_different_class\obj\Debug\net6.0\Creating_objects_in_a_different_class.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_objects_in_a_different_class\obj\Debug\net6.0\refint\Creating_objects_in_a_different_class.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_objects_in_a_different_class\obj\Debug\net6.0\Creating_objects_in_a_different_class.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_objects_in_a_different_class\obj\Debug\net6.0\Creating_objects_in_a_different_class.genruntimeconfig.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_objects_in_a_different_class\obj\Debug\net6.0\ref\Creating_objects_in_a_different_class.dll

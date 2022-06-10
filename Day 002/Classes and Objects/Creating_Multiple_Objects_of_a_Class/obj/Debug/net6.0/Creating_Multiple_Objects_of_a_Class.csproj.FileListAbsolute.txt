@@ -1,0 +1,15 @@
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_Multiple_Objects_of_a_Class\bin\Debug\net6.0\Creating_Multiple_Objects_of_a_Class.exe
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_Multiple_Objects_of_a_Class\bin\Debug\net6.0\Creating_Multiple_Objects_of_a_Class.deps.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_Multiple_Objects_of_a_Class\bin\Debug\net6.0\Creating_Multiple_Objects_of_a_Class.runtimeconfig.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_Multiple_Objects_of_a_Class\bin\Debug\net6.0\Creating_Multiple_Objects_of_a_Class.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_Multiple_Objects_of_a_Class\bin\Debug\net6.0\Creating_Multiple_Objects_of_a_Class.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_Multiple_Objects_of_a_Class\obj\Debug\net6.0\Creating_Multiple_Objects_of_a_Class.csproj.AssemblyReference.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_Multiple_Objects_of_a_Class\obj\Debug\net6.0\Creating_Multiple_Objects_of_a_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_Multiple_Objects_of_a_Class\obj\Debug\net6.0\Creating_Multiple_Objects_of_a_Class.AssemblyInfoInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_Multiple_Objects_of_a_Class\obj\Debug\net6.0\Creating_Multiple_Objects_of_a_Class.AssemblyInfo.cs
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_Multiple_Objects_of_a_Class\obj\Debug\net6.0\Creating_Multiple_Objects_of_a_Class.csproj.CoreCompileInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_Multiple_Objects_of_a_Class\obj\Debug\net6.0\Creating_Multiple_Objects_of_a_Class.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_Multiple_Objects_of_a_Class\obj\Debug\net6.0\refint\Creating_Multiple_Objects_of_a_Class.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_Multiple_Objects_of_a_Class\obj\Debug\net6.0\Creating_Multiple_Objects_of_a_Class.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_Multiple_Objects_of_a_Class\obj\Debug\net6.0\Creating_Multiple_Objects_of_a_Class.genruntimeconfig.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Creating_Multiple_Objects_of_a_Class\obj\Debug\net6.0\ref\Creating_Multiple_Objects_of_a_Class.dll

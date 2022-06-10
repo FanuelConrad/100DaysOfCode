@@ -1,0 +1,15 @@
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Access_class_members_using_objects\bin\Debug\net6.0\Access_class_members_using_objects.exe
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Access_class_members_using_objects\bin\Debug\net6.0\Access_class_members_using_objects.deps.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Access_class_members_using_objects\bin\Debug\net6.0\Access_class_members_using_objects.runtimeconfig.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Access_class_members_using_objects\bin\Debug\net6.0\Access_class_members_using_objects.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Access_class_members_using_objects\bin\Debug\net6.0\Access_class_members_using_objects.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Access_class_members_using_objects\obj\Debug\net6.0\Access_class_members_using_objects.csproj.AssemblyReference.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Access_class_members_using_objects\obj\Debug\net6.0\Access_class_members_using_objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Access_class_members_using_objects\obj\Debug\net6.0\Access_class_members_using_objects.AssemblyInfoInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Access_class_members_using_objects\obj\Debug\net6.0\Access_class_members_using_objects.AssemblyInfo.cs
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Access_class_members_using_objects\obj\Debug\net6.0\Access_class_members_using_objects.csproj.CoreCompileInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Access_class_members_using_objects\obj\Debug\net6.0\Access_class_members_using_objects.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Access_class_members_using_objects\obj\Debug\net6.0\refint\Access_class_members_using_objects.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Access_class_members_using_objects\obj\Debug\net6.0\Access_class_members_using_objects.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Access_class_members_using_objects\obj\Debug\net6.0\Access_class_members_using_objects.genruntimeconfig.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Classes and Objects\Access_class_members_using_objects\obj\Debug\net6.0\ref\Access_class_members_using_objects.dll
