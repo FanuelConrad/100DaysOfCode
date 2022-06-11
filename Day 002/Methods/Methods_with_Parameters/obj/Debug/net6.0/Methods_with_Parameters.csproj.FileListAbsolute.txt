@@ -1,0 +1,15 @@
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Methods\Methods_with_Parameters\bin\Debug\net6.0\Methods_with_Parameters.exe
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Methods\Methods_with_Parameters\bin\Debug\net6.0\Methods_with_Parameters.deps.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Methods\Methods_with_Parameters\bin\Debug\net6.0\Methods_with_Parameters.runtimeconfig.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Methods\Methods_with_Parameters\bin\Debug\net6.0\Methods_with_Parameters.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Methods\Methods_with_Parameters\bin\Debug\net6.0\Methods_with_Parameters.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Methods\Methods_with_Parameters\obj\Debug\net6.0\Methods_with_Parameters.csproj.AssemblyReference.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Methods\Methods_with_Parameters\obj\Debug\net6.0\Methods_with_Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Methods\Methods_with_Parameters\obj\Debug\net6.0\Methods_with_Parameters.AssemblyInfoInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Methods\Methods_with_Parameters\obj\Debug\net6.0\Methods_with_Parameters.AssemblyInfo.cs
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Methods\Methods_with_Parameters\obj\Debug\net6.0\Methods_with_Parameters.csproj.CoreCompileInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Methods\Methods_with_Parameters\obj\Debug\net6.0\Methods_with_Parameters.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Methods\Methods_with_Parameters\obj\Debug\net6.0\refint\Methods_with_Parameters.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Methods\Methods_with_Parameters\obj\Debug\net6.0\Methods_with_Parameters.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Methods\Methods_with_Parameters\obj\Debug\net6.0\Methods_with_Parameters.genruntimeconfig.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 002\Methods\Methods_with_Parameters\obj\Debug\net6.0\ref\Methods_with_Parameters.dll
