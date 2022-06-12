@@ -1,0 +1,15 @@
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 003\Constractor\Static_Constructor\bin\Debug\net6.0\Static_Constructor.exe
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 003\Constractor\Static_Constructor\bin\Debug\net6.0\Static_Constructor.deps.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 003\Constractor\Static_Constructor\bin\Debug\net6.0\Static_Constructor.runtimeconfig.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 003\Constractor\Static_Constructor\bin\Debug\net6.0\Static_Constructor.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 003\Constractor\Static_Constructor\bin\Debug\net6.0\Static_Constructor.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 003\Constractor\Static_Constructor\obj\Debug\net6.0\Static_Constructor.csproj.AssemblyReference.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 003\Constractor\Static_Constructor\obj\Debug\net6.0\Static_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 003\Constractor\Static_Constructor\obj\Debug\net6.0\Static_Constructor.AssemblyInfoInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 003\Constractor\Static_Constructor\obj\Debug\net6.0\Static_Constructor.AssemblyInfo.cs
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 003\Constractor\Static_Constructor\obj\Debug\net6.0\Static_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 003\Constractor\Static_Constructor\obj\Debug\net6.0\Static_Constructor.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 003\Constractor\Static_Constructor\obj\Debug\net6.0\refint\Static_Constructor.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 003\Constractor\Static_Constructor\obj\Debug\net6.0\Static_Constructor.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 003\Constractor\Static_Constructor\obj\Debug\net6.0\Static_Constructor.genruntimeconfig.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 003\Constractor\Static_Constructor\obj\Debug\net6.0\ref\Static_Constructor.dll
