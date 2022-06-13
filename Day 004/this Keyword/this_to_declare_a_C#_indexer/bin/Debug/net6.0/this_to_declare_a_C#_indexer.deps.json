@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "this_to_declare_a_C#_indexer/1.0.0": {
+        "runtime": {
+          "this_to_declare_a_C#_indexer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "this_to_declare_a_C#_indexer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
