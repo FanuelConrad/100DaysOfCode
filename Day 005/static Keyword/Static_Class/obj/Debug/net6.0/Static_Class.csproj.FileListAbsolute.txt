@@ -1,0 +1,5 @@
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\obj\Debug\net6.0\Static_Class.csproj.AssemblyReference.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\obj\Debug\net6.0\Static_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\obj\Debug\net6.0\Static_Class.AssemblyInfoInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\obj\Debug\net6.0\Static_Class.AssemblyInfo.cs
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\obj\Debug\net6.0\Static_Class.csproj.CoreCompileInputs.cache
