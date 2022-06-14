@@ -27,7 +27,7 @@ namespace Private_Constructor // Note: actual namespace depends on the project n
         static void Main(string[] args)
         {
             //call private constructor
-            Car car1 = new Car();
+            //Car car1 = new Car();
             Console.ReadLine();
         }
         }
