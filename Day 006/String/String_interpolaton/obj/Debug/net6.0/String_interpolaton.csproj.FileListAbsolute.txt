@@ -1,0 +1,15 @@
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String_interpolaton\bin\Debug\net6.0\String_interpolaton.exe
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String_interpolaton\bin\Debug\net6.0\String_interpolaton.deps.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String_interpolaton\bin\Debug\net6.0\String_interpolaton.runtimeconfig.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String_interpolaton\bin\Debug\net6.0\String_interpolaton.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String_interpolaton\bin\Debug\net6.0\String_interpolaton.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String_interpolaton\obj\Debug\net6.0\String_interpolaton.csproj.AssemblyReference.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String_interpolaton\obj\Debug\net6.0\String_interpolaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String_interpolaton\obj\Debug\net6.0\String_interpolaton.AssemblyInfoInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String_interpolaton\obj\Debug\net6.0\String_interpolaton.AssemblyInfo.cs
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String_interpolaton\obj\Debug\net6.0\String_interpolaton.csproj.CoreCompileInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String_interpolaton\obj\Debug\net6.0\String_interpolaton.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String_interpolaton\obj\Debug\net6.0\refint\String_interpolaton.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String_interpolaton\obj\Debug\net6.0\String_interpolaton.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String_interpolaton\obj\Debug\net6.0\String_interpolaton.genruntimeconfig.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String_interpolaton\obj\Debug\net6.0\ref\String_interpolaton.dll

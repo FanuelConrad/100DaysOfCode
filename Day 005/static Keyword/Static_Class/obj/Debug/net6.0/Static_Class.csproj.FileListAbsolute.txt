@@ -3,3 +3,13 @@ C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Sta
 C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\obj\Debug\net6.0\Static_Class.AssemblyInfoInputs.cache
 C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\obj\Debug\net6.0\Static_Class.AssemblyInfo.cs
 C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\obj\Debug\net6.0\Static_Class.csproj.CoreCompileInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\bin\Debug\net6.0\Static_Class.exe
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\bin\Debug\net6.0\Static_Class.deps.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\bin\Debug\net6.0\Static_Class.runtimeconfig.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\bin\Debug\net6.0\Static_Class.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\bin\Debug\net6.0\Static_Class.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\obj\Debug\net6.0\Static_Class.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\obj\Debug\net6.0\refint\Static_Class.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\obj\Debug\net6.0\Static_Class.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\obj\Debug\net6.0\Static_Class.genruntimeconfig.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 005\static Keyword\Static_Class\obj\Debug\net6.0\ref\Static_Class.dll

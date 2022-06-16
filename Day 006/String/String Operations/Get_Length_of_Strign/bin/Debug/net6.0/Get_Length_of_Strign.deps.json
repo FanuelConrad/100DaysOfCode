@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Get_Length_of_Strign/1.0.0": {
+        "runtime": {
+          "Get_Length_of_Strign.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Get_Length_of_Strign/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

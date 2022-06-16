@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Join_two_strings_in_C#/1.0.0": {
+        "runtime": {
+          "Join_two_strings_in_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Join_two_strings_in_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

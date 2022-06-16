@@ -13,8 +13,8 @@ namespace Static_Class // Note: actual namespace depends on the project name.
 
         static void Main(string[] args)
         {
-            //creating object of Test
-            Test t1=new Test();
+            //creating object of Test not possible
+            //Test t1=new Test();
             Console.WriteLine(a);
             display();
         }
