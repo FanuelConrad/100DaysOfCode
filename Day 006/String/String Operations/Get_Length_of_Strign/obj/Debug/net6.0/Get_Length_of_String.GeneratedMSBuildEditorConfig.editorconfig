@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Compare_Strings
-build_property.ProjectDir = c:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String Operations\Compare_Strings\
+build_property.RootNamespace = Get_Length_of_String
+build_property.ProjectDir = c:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 006\String\String Operations\Get_Length_of_Strign\
