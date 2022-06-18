@@ -1,0 +1,15 @@
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\base_Keyword_in_Inheritance\bin\Debug\net6.0\base_Keyword_in_Inheritance.exe
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\base_Keyword_in_Inheritance\bin\Debug\net6.0\base_Keyword_in_Inheritance.deps.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\base_Keyword_in_Inheritance\bin\Debug\net6.0\base_Keyword_in_Inheritance.runtimeconfig.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\base_Keyword_in_Inheritance\bin\Debug\net6.0\base_Keyword_in_Inheritance.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\base_Keyword_in_Inheritance\bin\Debug\net6.0\base_Keyword_in_Inheritance.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\base_Keyword_in_Inheritance\obj\Debug\net6.0\base_Keyword_in_Inheritance.csproj.AssemblyReference.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\base_Keyword_in_Inheritance\obj\Debug\net6.0\base_Keyword_in_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\base_Keyword_in_Inheritance\obj\Debug\net6.0\base_Keyword_in_Inheritance.AssemblyInfoInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\base_Keyword_in_Inheritance\obj\Debug\net6.0\base_Keyword_in_Inheritance.AssemblyInfo.cs
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\base_Keyword_in_Inheritance\obj\Debug\net6.0\base_Keyword_in_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\base_Keyword_in_Inheritance\obj\Debug\net6.0\base_Keyword_in_Inheritance.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\base_Keyword_in_Inheritance\obj\Debug\net6.0\refint\base_Keyword_in_Inheritance.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\base_Keyword_in_Inheritance\obj\Debug\net6.0\base_Keyword_in_Inheritance.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\base_Keyword_in_Inheritance\obj\Debug\net6.0\base_Keyword_in_Inheritance.genruntimeconfig.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\base_Keyword_in_Inheritance\obj\Debug\net6.0\ref\base_Keyword_in_Inheritance.dll

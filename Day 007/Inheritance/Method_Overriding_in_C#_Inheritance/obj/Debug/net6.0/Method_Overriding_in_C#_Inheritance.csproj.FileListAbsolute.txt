@@ -1,0 +1,15 @@
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\Method_Overriding_in_C#_Inheritance\bin\Debug\net6.0\Method_Overriding_in_C#_Inheritance.exe
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\Method_Overriding_in_C#_Inheritance\bin\Debug\net6.0\Method_Overriding_in_C#_Inheritance.deps.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\Method_Overriding_in_C#_Inheritance\bin\Debug\net6.0\Method_Overriding_in_C#_Inheritance.runtimeconfig.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\Method_Overriding_in_C#_Inheritance\bin\Debug\net6.0\Method_Overriding_in_C#_Inheritance.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\Method_Overriding_in_C#_Inheritance\bin\Debug\net6.0\Method_Overriding_in_C#_Inheritance.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\Method_Overriding_in_C#_Inheritance\obj\Debug\net6.0\Method_Overriding_in_C#_Inheritance.csproj.AssemblyReference.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\Method_Overriding_in_C#_Inheritance\obj\Debug\net6.0\Method_Overriding_in_C#_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\Method_Overriding_in_C#_Inheritance\obj\Debug\net6.0\Method_Overriding_in_C#_Inheritance.AssemblyInfoInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\Method_Overriding_in_C#_Inheritance\obj\Debug\net6.0\Method_Overriding_in_C#_Inheritance.AssemblyInfo.cs
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\Method_Overriding_in_C#_Inheritance\obj\Debug\net6.0\Method_Overriding_in_C#_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\Method_Overriding_in_C#_Inheritance\obj\Debug\net6.0\Method_Overriding_in_C#_Inheritance.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\Method_Overriding_in_C#_Inheritance\obj\Debug\net6.0\refint\Method_Overriding_in_C#_Inheritance.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\Method_Overriding_in_C#_Inheritance\obj\Debug\net6.0\Method_Overriding_in_C#_Inheritance.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\Method_Overriding_in_C#_Inheritance\obj\Debug\net6.0\Method_Overriding_in_C#_Inheritance.genruntimeconfig.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\100DaysOfCode\Day 007\Inheritance\Method_Overriding_in_C#_Inheritance\obj\Debug\net6.0\ref\Method_Overriding_in_C#_Inheritance.dll
