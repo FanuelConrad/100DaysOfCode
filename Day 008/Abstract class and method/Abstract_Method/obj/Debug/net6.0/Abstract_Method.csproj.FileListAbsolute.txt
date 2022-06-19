@@ -1,0 +1,15 @@
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_Method\bin\Debug\net6.0\Abstract_Method.exe
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_Method\bin\Debug\net6.0\Abstract_Method.deps.json
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_Method\bin\Debug\net6.0\Abstract_Method.runtimeconfig.json
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_Method\bin\Debug\net6.0\Abstract_Method.dll
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_Method\bin\Debug\net6.0\Abstract_Method.pdb
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_Method\obj\Debug\net6.0\Abstract_Method.csproj.AssemblyReference.cache
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_Method\obj\Debug\net6.0\Abstract_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_Method\obj\Debug\net6.0\Abstract_Method.AssemblyInfoInputs.cache
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_Method\obj\Debug\net6.0\Abstract_Method.AssemblyInfo.cs
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_Method\obj\Debug\net6.0\Abstract_Method.csproj.CoreCompileInputs.cache
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_Method\obj\Debug\net6.0\Abstract_Method.dll
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_Method\obj\Debug\net6.0\refint\Abstract_Method.dll
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_Method\obj\Debug\net6.0\Abstract_Method.pdb
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_Method\obj\Debug\net6.0\Abstract_Method.genruntimeconfig.cache
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_Method\obj\Debug\net6.0\ref\Abstract_Method.dll

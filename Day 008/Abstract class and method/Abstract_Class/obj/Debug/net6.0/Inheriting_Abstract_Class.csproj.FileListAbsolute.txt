@@ -1,0 +1,15 @@
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Inheriting_Abstract_Class\bin\Debug\net6.0\Inheriting_Abstract_Class.exe
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Inheriting_Abstract_Class\bin\Debug\net6.0\Inheriting_Abstract_Class.deps.json
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Inheriting_Abstract_Class\bin\Debug\net6.0\Inheriting_Abstract_Class.runtimeconfig.json
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Inheriting_Abstract_Class\bin\Debug\net6.0\Inheriting_Abstract_Class.dll
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Inheriting_Abstract_Class\bin\Debug\net6.0\Inheriting_Abstract_Class.pdb
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Inheriting_Abstract_Class\obj\Debug\net6.0\Inheriting_Abstract_Class.csproj.AssemblyReference.cache
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Inheriting_Abstract_Class\obj\Debug\net6.0\Inheriting_Abstract_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Inheriting_Abstract_Class\obj\Debug\net6.0\Inheriting_Abstract_Class.AssemblyInfoInputs.cache
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Inheriting_Abstract_Class\obj\Debug\net6.0\Inheriting_Abstract_Class.AssemblyInfo.cs
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Inheriting_Abstract_Class\obj\Debug\net6.0\Inheriting_Abstract_Class.csproj.CoreCompileInputs.cache
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Inheriting_Abstract_Class\obj\Debug\net6.0\Inheriting_Abstract_Class.dll
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Inheriting_Abstract_Class\obj\Debug\net6.0\refint\Inheriting_Abstract_Class.dll
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Inheriting_Abstract_Class\obj\Debug\net6.0\Inheriting_Abstract_Class.pdb
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Inheriting_Abstract_Class\obj\Debug\net6.0\Inheriting_Abstract_Class.genruntimeconfig.cache
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Inheriting_Abstract_Class\obj\Debug\net6.0\ref\Inheriting_Abstract_Class.dll
