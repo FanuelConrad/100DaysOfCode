@@ -1,0 +1,15 @@
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Access_Constructor_of_Abstract_Classes\bin\Debug\net6.0\Access_Constructor_of_Abstract_Classes.exe
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Access_Constructor_of_Abstract_Classes\bin\Debug\net6.0\Access_Constructor_of_Abstract_Classes.deps.json
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Access_Constructor_of_Abstract_Classes\bin\Debug\net6.0\Access_Constructor_of_Abstract_Classes.runtimeconfig.json
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Access_Constructor_of_Abstract_Classes\bin\Debug\net6.0\Access_Constructor_of_Abstract_Classes.dll
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Access_Constructor_of_Abstract_Classes\bin\Debug\net6.0\Access_Constructor_of_Abstract_Classes.pdb
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Access_Constructor_of_Abstract_Classes\obj\Debug\net6.0\Access_Constructor_of_Abstract_Classes.csproj.AssemblyReference.cache
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Access_Constructor_of_Abstract_Classes\obj\Debug\net6.0\Access_Constructor_of_Abstract_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Access_Constructor_of_Abstract_Classes\obj\Debug\net6.0\Access_Constructor_of_Abstract_Classes.AssemblyInfoInputs.cache
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Access_Constructor_of_Abstract_Classes\obj\Debug\net6.0\Access_Constructor_of_Abstract_Classes.AssemblyInfo.cs
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Access_Constructor_of_Abstract_Classes\obj\Debug\net6.0\Access_Constructor_of_Abstract_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Access_Constructor_of_Abstract_Classes\obj\Debug\net6.0\Access_Constructor_of_Abstract_Classes.dll
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Access_Constructor_of_Abstract_Classes\obj\Debug\net6.0\refint\Access_Constructor_of_Abstract_Classes.dll
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Access_Constructor_of_Abstract_Classes\obj\Debug\net6.0\Access_Constructor_of_Abstract_Classes.pdb
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Access_Constructor_of_Abstract_Classes\obj\Debug\net6.0\Access_Constructor_of_Abstract_Classes.genruntimeconfig.cache
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Access_Constructor_of_Abstract_Classes\obj\Debug\net6.0\ref\Access_Constructor_of_Abstract_Classes.dll

@@ -1,0 +1,15 @@
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_class_with_get_and_set_accessors\obj\Debug\net6.0\Abstract_class_with_get_and_set_accessors.csproj.AssemblyReference.cache
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_class_with_get_and_set_accessors\obj\Debug\net6.0\Abstract_class_with_get_and_set_accessors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_class_with_get_and_set_accessors\obj\Debug\net6.0\Abstract_class_with_get_and_set_accessors.AssemblyInfoInputs.cache
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_class_with_get_and_set_accessors\obj\Debug\net6.0\Abstract_class_with_get_and_set_accessors.AssemblyInfo.cs
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_class_with_get_and_set_accessors\obj\Debug\net6.0\Abstract_class_with_get_and_set_accessors.csproj.CoreCompileInputs.cache
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_class_with_get_and_set_accessors\bin\Debug\net6.0\Abstract_class_with_get_and_set_accessors.exe
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_class_with_get_and_set_accessors\bin\Debug\net6.0\Abstract_class_with_get_and_set_accessors.deps.json
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_class_with_get_and_set_accessors\bin\Debug\net6.0\Abstract_class_with_get_and_set_accessors.runtimeconfig.json
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_class_with_get_and_set_accessors\bin\Debug\net6.0\Abstract_class_with_get_and_set_accessors.dll
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_class_with_get_and_set_accessors\bin\Debug\net6.0\Abstract_class_with_get_and_set_accessors.pdb
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_class_with_get_and_set_accessors\obj\Debug\net6.0\Abstract_class_with_get_and_set_accessors.dll
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_class_with_get_and_set_accessors\obj\Debug\net6.0\refint\Abstract_class_with_get_and_set_accessors.dll
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_class_with_get_and_set_accessors\obj\Debug\net6.0\Abstract_class_with_get_and_set_accessors.pdb
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_class_with_get_and_set_accessors\obj\Debug\net6.0\Abstract_class_with_get_and_set_accessors.genruntimeconfig.cache
+C:\Users\Fanuel Conrad\Documents\GitHub\100DaysOfCode\Day 008\Abstract class and method\Abstract_class_with_get_and_set_accessors\obj\Debug\net6.0\ref\Abstract_class_with_get_and_set_accessors.dll
