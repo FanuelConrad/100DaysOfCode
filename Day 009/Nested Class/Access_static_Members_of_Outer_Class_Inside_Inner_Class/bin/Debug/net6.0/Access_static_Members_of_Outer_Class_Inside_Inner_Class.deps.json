@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Access_static_Members_of_Outer_Class_Inside_Inner_Class/1.0.0": {
+        "runtime": {
+          "Access_static_Members_of_Outer_Class_Inside_Inner_Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Access_static_Members_of_Outer_Class_Inside_Inner_Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
