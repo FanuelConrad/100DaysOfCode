@@ -1,0 +1,15 @@
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 011\ArrayList\obj\Debug\net6.0\ArrayList.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 011\ArrayList\obj\Debug\net6.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 011\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 011\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfo.cs
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 011\ArrayList\obj\Debug\net6.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 011\ArrayList\bin\Debug\net6.0\ArrayList.exe
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 011\ArrayList\bin\Debug\net6.0\ArrayList.deps.json
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 011\ArrayList\bin\Debug\net6.0\ArrayList.runtimeconfig.json
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 011\ArrayList\bin\Debug\net6.0\ArrayList.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 011\ArrayList\bin\Debug\net6.0\ArrayList.pdb
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 011\ArrayList\obj\Debug\net6.0\ArrayList.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 011\ArrayList\obj\Debug\net6.0\refint\ArrayList.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 011\ArrayList\obj\Debug\net6.0\ArrayList.pdb
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 011\ArrayList\obj\Debug\net6.0\ArrayList.genruntimeconfig.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 011\ArrayList\obj\Debug\net6.0\ref\ArrayList.dll

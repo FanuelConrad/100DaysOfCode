@@ -1,0 +1,15 @@
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\implementing_multiple_interfaces\bin\Debug\net6.0\Implementing_Multiple_Interfaces.exe
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\implementing_multiple_interfaces\bin\Debug\net6.0\Implementing_Multiple_Interfaces.deps.json
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\implementing_multiple_interfaces\bin\Debug\net6.0\Implementing_Multiple_Interfaces.runtimeconfig.json
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\implementing_multiple_interfaces\bin\Debug\net6.0\Implementing_Multiple_Interfaces.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\implementing_multiple_interfaces\bin\Debug\net6.0\Implementing_Multiple_Interfaces.pdb
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\implementing_multiple_interfaces\obj\Debug\net6.0\Implementing_Multiple_Interfaces.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\implementing_multiple_interfaces\obj\Debug\net6.0\Implementing_Multiple_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\implementing_multiple_interfaces\obj\Debug\net6.0\Implementing_Multiple_Interfaces.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\implementing_multiple_interfaces\obj\Debug\net6.0\Implementing_Multiple_Interfaces.AssemblyInfo.cs
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\implementing_multiple_interfaces\obj\Debug\net6.0\Implementing_Multiple_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\implementing_multiple_interfaces\obj\Debug\net6.0\Implementing_Multiple_Interfaces.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\implementing_multiple_interfaces\obj\Debug\net6.0\refint\Implementing_Multiple_Interfaces.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\implementing_multiple_interfaces\obj\Debug\net6.0\Implementing_Multiple_Interfaces.pdb
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\implementing_multiple_interfaces\obj\Debug\net6.0\Implementing_Multiple_Interfaces.genruntimeconfig.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\implementing_multiple_interfaces\obj\Debug\net6.0\ref\Implementing_Multiple_Interfaces.dll

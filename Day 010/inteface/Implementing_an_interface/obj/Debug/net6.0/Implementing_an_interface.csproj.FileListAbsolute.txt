@@ -1,0 +1,15 @@
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\Implementing_an_interface\obj\Debug\net6.0\Implementing_an_interface.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\Implementing_an_interface\obj\Debug\net6.0\Implementing_an_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\Implementing_an_interface\obj\Debug\net6.0\Implementing_an_interface.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\Implementing_an_interface\obj\Debug\net6.0\Implementing_an_interface.AssemblyInfo.cs
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\Implementing_an_interface\obj\Debug\net6.0\Implementing_an_interface.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\Implementing_an_interface\bin\Debug\net6.0\Implementing_an_interface.exe
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\Implementing_an_interface\bin\Debug\net6.0\Implementing_an_interface.deps.json
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\Implementing_an_interface\bin\Debug\net6.0\Implementing_an_interface.runtimeconfig.json
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\Implementing_an_interface\bin\Debug\net6.0\Implementing_an_interface.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\Implementing_an_interface\bin\Debug\net6.0\Implementing_an_interface.pdb
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\Implementing_an_interface\obj\Debug\net6.0\Implementing_an_interface.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\Implementing_an_interface\obj\Debug\net6.0\refint\Implementing_an_interface.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\Implementing_an_interface\obj\Debug\net6.0\Implementing_an_interface.pdb
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\Implementing_an_interface\obj\Debug\net6.0\Implementing_an_interface.genruntimeconfig.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 010\inteface\Implementing_an_interface\obj\Debug\net6.0\ref\Implementing_an_interface.dll
