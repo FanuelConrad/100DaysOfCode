@@ -1,0 +1,15 @@
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 012\HashtableChallange\obj\Debug\net6.0\HashtableChallange.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 012\HashtableChallange\obj\Debug\net6.0\HashtableChallange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 012\HashtableChallange\obj\Debug\net6.0\HashtableChallange.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 012\HashtableChallange\obj\Debug\net6.0\HashtableChallange.AssemblyInfo.cs
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 012\HashtableChallange\obj\Debug\net6.0\HashtableChallange.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 012\HashtableChallange\bin\Debug\net6.0\HashtableChallange.exe
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 012\HashtableChallange\bin\Debug\net6.0\HashtableChallange.deps.json
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 012\HashtableChallange\bin\Debug\net6.0\HashtableChallange.runtimeconfig.json
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 012\HashtableChallange\bin\Debug\net6.0\HashtableChallange.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 012\HashtableChallange\bin\Debug\net6.0\HashtableChallange.pdb
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 012\HashtableChallange\obj\Debug\net6.0\HashtableChallange.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 012\HashtableChallange\obj\Debug\net6.0\refint\HashtableChallange.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 012\HashtableChallange\obj\Debug\net6.0\HashtableChallange.pdb
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 012\HashtableChallange\obj\Debug\net6.0\HashtableChallange.genruntimeconfig.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 012\HashtableChallange\obj\Debug\net6.0\ref\HashtableChallange.dll
