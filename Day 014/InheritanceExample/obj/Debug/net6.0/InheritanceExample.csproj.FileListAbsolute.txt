@@ -1,0 +1,15 @@
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 014\InheritanceExample\bin\Debug\net6.0\InheritanceExample.exe
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 014\InheritanceExample\bin\Debug\net6.0\InheritanceExample.deps.json
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 014\InheritanceExample\bin\Debug\net6.0\InheritanceExample.runtimeconfig.json
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 014\InheritanceExample\bin\Debug\net6.0\InheritanceExample.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 014\InheritanceExample\bin\Debug\net6.0\InheritanceExample.pdb
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 014\InheritanceExample\obj\Debug\net6.0\InheritanceExample.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 014\InheritanceExample\obj\Debug\net6.0\InheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 014\InheritanceExample\obj\Debug\net6.0\InheritanceExample.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 014\InheritanceExample\obj\Debug\net6.0\InheritanceExample.AssemblyInfo.cs
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 014\InheritanceExample\obj\Debug\net6.0\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 014\InheritanceExample\obj\Debug\net6.0\InheritanceExample.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 014\InheritanceExample\obj\Debug\net6.0\refint\InheritanceExample.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 014\InheritanceExample\obj\Debug\net6.0\InheritanceExample.pdb
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 014\InheritanceExample\obj\Debug\net6.0\InheritanceExample.genruntimeconfig.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 014\InheritanceExample\obj\Debug\net6.0\ref\InheritanceExample.dll

@@ -1,0 +1,15 @@
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumarableAndIEnumeratorDemo\obj\Debug\net6.0\IEnumarableAndIEnumeratorDemo.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumarableAndIEnumeratorDemo\obj\Debug\net6.0\IEnumarableAndIEnumeratorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumarableAndIEnumeratorDemo\obj\Debug\net6.0\IEnumarableAndIEnumeratorDemo.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumarableAndIEnumeratorDemo\obj\Debug\net6.0\IEnumarableAndIEnumeratorDemo.AssemblyInfo.cs
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumarableAndIEnumeratorDemo\obj\Debug\net6.0\IEnumarableAndIEnumeratorDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumarableAndIEnumeratorDemo\bin\Debug\net6.0\IEnumarableAndIEnumeratorDemo.exe
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumarableAndIEnumeratorDemo\bin\Debug\net6.0\IEnumarableAndIEnumeratorDemo.deps.json
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumarableAndIEnumeratorDemo\bin\Debug\net6.0\IEnumarableAndIEnumeratorDemo.runtimeconfig.json
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumarableAndIEnumeratorDemo\bin\Debug\net6.0\IEnumarableAndIEnumeratorDemo.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumarableAndIEnumeratorDemo\bin\Debug\net6.0\IEnumarableAndIEnumeratorDemo.pdb
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumarableAndIEnumeratorDemo\obj\Debug\net6.0\IEnumarableAndIEnumeratorDemo.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumarableAndIEnumeratorDemo\obj\Debug\net6.0\refint\IEnumarableAndIEnumeratorDemo.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumarableAndIEnumeratorDemo\obj\Debug\net6.0\IEnumarableAndIEnumeratorDemo.pdb
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumarableAndIEnumeratorDemo\obj\Debug\net6.0\IEnumarableAndIEnumeratorDemo.genruntimeconfig.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumarableAndIEnumeratorDemo\obj\Debug\net6.0\ref\IEnumarableAndIEnumeratorDemo.dll

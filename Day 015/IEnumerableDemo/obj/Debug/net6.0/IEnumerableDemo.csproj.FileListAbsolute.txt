@@ -1,0 +1,15 @@
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumerableDemo\bin\Debug\net6.0\IEnumerableDemo.exe
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumerableDemo\bin\Debug\net6.0\IEnumerableDemo.deps.json
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumerableDemo\bin\Debug\net6.0\IEnumerableDemo.runtimeconfig.json
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumerableDemo\bin\Debug\net6.0\IEnumerableDemo.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumerableDemo\bin\Debug\net6.0\IEnumerableDemo.pdb
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.AssemblyInfo.cs
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumerableDemo\obj\Debug\net6.0\refint\IEnumerableDemo.dll
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.pdb
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.genruntimeconfig.cache
+C:\Users\Hp\Documents\GitHub\100DaysOfCode\Day 015\IEnumerableDemo\obj\Debug\net6.0\ref\IEnumerableDemo.dll
